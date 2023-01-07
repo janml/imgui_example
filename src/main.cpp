@@ -1,4 +1,3 @@
-#include <iostream>
 #include <chrono>
 #include "gui.h"
 #pragma comment(linker, "/SUBSYSTEM:windows /ENTRY:mainCRTStartup")  // Hide windows console. 
